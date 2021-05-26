@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "RPi_CM4IO")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/RPi_CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "Power")(type "KiCad")(uri "${KIPRJMOD}/Power.kicad_sym")(options "")(descr ""))
+  (lib (name "AI_Coral")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/AI_Coral.kicad_sym")(options "")(descr ""))
+)

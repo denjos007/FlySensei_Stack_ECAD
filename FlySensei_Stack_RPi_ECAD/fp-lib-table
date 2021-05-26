@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "AI_Coral")(type "KiCad")(uri "${KICAD_USER_FOOTPRINT_DIR}/AI_Coral.pretty")(options "")(descr ""))
+  (lib (name "RPi_CM4IO")(type "KiCad")(uri "${KICAD_USER_FOOTPRINT_DIR}/RPi_CM4IO.pretty")(options "")(descr ""))
+)
