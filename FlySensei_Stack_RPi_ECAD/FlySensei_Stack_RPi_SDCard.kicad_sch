@@ -321,7 +321,6 @@
     )
   )
 
-
   (junction (at 116.205 120.65) (diameter 0.9144) (color 0 0 0 0))
 
   (no_connect (at 123.19 88.9) (uuid c25d0516-73ef-4c5c-9020-c022e3c3279f))
@@ -660,7 +659,7 @@
     (uuid b24c7d03-0bb0-42ff-a3af-eb770ccc5068)
     (property "Reference" "J10" (id 0) (at 144.78 57.9882 0))
     (property "Value" "Micro_SD_Card_Det" (id 1) (at 144.78 60.2996 0))
-    (property "Footprint" "CM4IO:SDCARD_MOLEX_503398-1892" (id 2) (at 198.12 60.96 0)
+    (property "Footprint" "RPi_CM4IO:SDCARD_MOLEX_503398-1892" (id 2) (at 198.12 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1" (id 3) (at 146.05 76.2 0)
