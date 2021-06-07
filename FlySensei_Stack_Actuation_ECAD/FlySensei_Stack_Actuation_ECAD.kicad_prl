@@ -2,7 +2,7 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "All Layers",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -10,7 +10,7 @@
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.4099999964237213
+      "zones": 0.25999999046325684
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -67,10 +67,23 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "FlySensei_Stack_RPi_ECAD.kicad_prl",
+    "filename": "FlySensei_Stack_Actuation_ECAD.kicad_prl",
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "FlySensei_Stack_Actuation_ECAD.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 1024,
+          "pos_y": 545,
+          "size_x": 1792,
+          "size_y": 1095
+        }
+      }
+    ]
   }
 }

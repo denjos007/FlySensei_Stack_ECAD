@@ -706,7 +706,7 @@
     (property "Sheet name" "Stacking Connectors" (id 0) (at 165.1 24.7643 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "SenseiPi_Stack_StackingConn.kicad_sch" (id 1) (at 165.1 76.7087 0)
+    (property "Sheet file" "FlySensei_Stack_StackingConn.kicad_sch" (id 1) (at 165.1 76.7087 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "SPI0{SPI_4CS}" bidirectional (at 165.1 30.48 180)
@@ -980,33 +980,6 @@
     (path "/0cf2b8c0-70f6-4976-95f7-88ea6c192189/ce9cd39a-a4c3-4452-86da-fea22e42bce8"
       (reference "#PWR0164") (unit 1) (value "GND") (footprint "")
     )
-    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/54916ec9-af70-477f-b016-b7e6781118dd"
-      (reference "#PWR0165") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/b5ac56e3-f4c8-45cf-b582-b97ae3ae2b09"
-      (reference "#PWR0166") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/1ae8c87a-b913-41f6-a1dd-ed54b364fe7f"
-      (reference "#PWR0167") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/4a4d1cfd-f35f-4065-8365-6bb04e476d94"
-      (reference "#PWR0168") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/46804df2-3bd5-4575-8af4-f8c1c4312ed3"
-      (reference "#PWR0169") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/26c4864f-1d8c-4fc8-8cad-51eb7d155f42"
-      (reference "#PWR0170") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/d1c53479-0edd-4ac6-b4e2-3f03ff22869d"
-      (reference "#PWR0171") (unit 1) (value "+BATT") (footprint "")
-    )
-    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/07826ae3-0f4a-4200-acbc-eebacf289e56"
-      (reference "#PWR0172") (unit 1) (value "+BATT") (footprint "")
-    )
-    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/b2bb658c-dc31-44f6-a275-f49a5b1107e9"
-      (reference "#PWR0173") (unit 1) (value "GND") (footprint "")
-    )
     (path "/1a1df624-ea52-444e-8eb0-2f13ef4aac9c/27a68ec0-b8bb-41a6-87a7-43252d8811fa"
       (reference "#PWR0174") (unit 1) (value "GND") (footprint "")
     )
@@ -1037,11 +1010,38 @@
     (path "/93e7d8cf-e360-4b54-86be-d58fb9455bdf/d1c12620-ac53-46fe-8f14-ba1778cd16da"
       (reference "#PWR0189") (unit 1) (value "GND") (footprint "")
     )
+    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/07826ae3-0f4a-4200-acbc-eebacf289e56"
+      (reference "#PWR?") (unit 1) (value "+BATT") (footprint "")
+    )
+    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/1ae8c87a-b913-41f6-a1dd-ed54b364fe7f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/f22911d6-fd0b-420b-886b-10dcff84029c/208f0a01-713a-4231-a6f0-1c5d1638f8c4"
-      (reference "#PWR0190") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/26c4864f-1d8c-4fc8-8cad-51eb7d155f42"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/46804df2-3bd5-4575-8af4-f8c1c4312ed3"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/4a4d1cfd-f35f-4065-8365-6bb04e476d94"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/54916ec9-af70-477f-b016-b7e6781118dd"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/f22911d6-fd0b-420b-886b-10dcff84029c/6671dfae-5c2c-4f4b-81fa-bd60b855852c"
-      (reference "#PWR0191") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/b2bb658c-dc31-44f6-a275-f49a5b1107e9"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/b5ac56e3-f4c8-45cf-b582-b97ae3ae2b09"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f22911d6-fd0b-420b-886b-10dcff84029c/d1c53479-0edd-4ac6-b4e2-3f03ff22869d"
+      (reference "#PWR?") (unit 1) (value "+BATT") (footprint "")
     )
     (path "/93e7d8cf-e360-4b54-86be-d58fb9455bdf/f1a7809f-8dd0-490d-9a21-230b15cd185e"
       (reference "C1") (unit 1) (value "0u1 16V") (footprint "Capacitor_SMD:C_0402_1005Metric")

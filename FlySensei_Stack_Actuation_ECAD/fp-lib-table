@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Pads")(type "KiCad")(uri "${KICAD_USER_FOOTPRINT_DIR}/Pads.pretty")(options "")(descr ""))
+  (lib (name "M_Battery-Management")(type "KiCad")(uri "${KICAD_USER_FOOTPRINT_DIR}/M_Battery-Management.pretty")(options "")(descr ""))
+)

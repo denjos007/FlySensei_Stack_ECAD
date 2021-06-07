@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "M_Battery-Management")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/M_Battery-Management.kicad_sym")(options "")(descr ""))
+  (lib (name "Converter_DCDC_U")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/Converter_DCDC_U.kicad_sym")(options "")(descr ""))
+)
