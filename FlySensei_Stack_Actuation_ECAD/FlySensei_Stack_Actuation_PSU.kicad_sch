@@ -1998,7 +1998,7 @@
     (property "Reference" "U8" (id 0) (at 194.31 74.93 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MAX17048G+T10" (id 1) (at 218.44 97.79 0)
+    (property "Value" "MAX17049G+T10" (id 1) (at 218.44 97.79 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "M_Battery-Management:MAX17049GT10" (id 2) (at 233.68 121.92 0)

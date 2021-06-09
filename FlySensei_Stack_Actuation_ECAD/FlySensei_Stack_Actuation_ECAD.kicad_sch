@@ -1114,7 +1114,7 @@
       (reference "U7") (unit 1) (value "MPM3610") (footprint "Package_DFN_QFN_U:MPM3610_QFN-20_5x3mm")
     )
     (path "/821e5142-9ed6-41e5-8fc6-e71cc7d4e757/40c0e633-f5d9-4b12-a3d4-fec36525d525"
-      (reference "U8") (unit 1) (value "MAX17048G+T10") (footprint "M_Battery-Management:MAX17049GT10")
+      (reference "U8") (unit 1) (value "MAX17049G+T10") (footprint "M_Battery-Management:MAX17049GT10")
     )
     (path "/52447a58-547f-40c9-b1f6-fd6a44cccc6d/af872c74-f42a-4e50-b216-8c20203e5f8c"
       (reference "U9") (unit 1) (value "TS5A3159ADCKR") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6")
