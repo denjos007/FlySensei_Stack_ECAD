@@ -3463,7 +3463,7 @@
     (property "Reference" "R21" (id 0) (at 372.11 160.6549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "480" (id 1) (at 372.11 163.1949 0)
+    (property "Value" "480R" (id 1) (at 372.11 163.1949 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 369.57 161.29 0)
