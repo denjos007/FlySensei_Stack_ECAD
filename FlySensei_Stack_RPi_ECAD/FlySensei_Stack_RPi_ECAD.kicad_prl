@@ -71,31 +71,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "FlySensei_Stack_RPi_ECAD.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 1024,
-          "pos_y": 545,
-          "size_x": 1792,
-          "size_y": 1095
-        }
-      },
-      {
-        "name": "FlySensei_Stack_RPi_ECAD.kicad_pcb",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 896,
-          "pos_y": 465,
-          "size_x": 2048,
-          "size_y": 1255
-        }
-      }
-    ]
+    "files": []
   }
 }
