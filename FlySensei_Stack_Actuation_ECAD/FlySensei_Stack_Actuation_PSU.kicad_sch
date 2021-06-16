@@ -1,4 +1,4 @@
-(kicad_sch (version 20210406) (generator eeschema)
+(kicad_sch (version 20210606) (generator eeschema)
 
   (uuid a66a0253-f4af-416f-ae77-8aed6825d12a)
 
@@ -1120,20 +1120,20 @@
     (pin "1" (uuid ce213e50-ec06-4532-8c9a-4a1bd32e0b36))
   )
 
-  (symbol (lib_id "power:+BATT") (at 204.47 71.12 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 204.47 71.12 0) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid f3535e97-ebdb-4e25-b80f-2c6c96fb0e95)
-    (property "Reference" "#PWR0247" (id 0) (at 204.47 74.93 0)
+    (uuid ea6a63c5-0182-4c23-90c7-86ec937e4f3b)
+    (property "Reference" "#PWR?" (id 0) (at 204.47 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+BATT" (id 1) (at 208.28 71.12 0))
+    (property "Value" "+3V3" (id 1) (at 205.74 67.31 0))
     (property "Footprint" "" (id 2) (at 204.47 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 204.47 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7b940bcc-c80a-4fac-8795-9090357476ed))
+    (pin "1" (uuid 735f394c-053d-4b4b-baf6-c57999bfba64))
   )
 
   (symbol (lib_id "power:+BATT") (at 250.19 80.01 0) (unit 1)

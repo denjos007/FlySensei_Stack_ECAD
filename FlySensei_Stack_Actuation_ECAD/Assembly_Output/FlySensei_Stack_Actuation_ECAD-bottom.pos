@@ -1,0 +1,29 @@
+### Module positions - created on Tuesday, June 15, 2021 at 09:00:12 PM ###
+### Printed by Pcbnew version (5.99.0-11031-gb4f5b6ef3c)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                         Package                                                PosX       PosY       Rot  Side
+BL0       Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -166.7500   -68.2500    0.0000  bottom
+BL1       Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -157.7000   -68.2500    0.0000  bottom
+BL2       Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -148.7000   -68.2300    0.0000  bottom
+BL3       Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -139.7000   -68.2300    0.0000  bottom
+BL4       Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -130.7000   -68.2250    0.0000  bottom
+BL5       Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -121.7000   -68.2750    0.0000  bottom
+BL6       Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -112.7000   -68.2750    0.0000  bottom
+BL7       Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -103.7500   -68.2800    0.0000  bottom
+J2        Conn_02x20_Odd_Even_Female  PinHeader_2x20_P1.27mm_Vertical_SMD               -105.0000   -97.5000  180.0000  bottom
+J4        Conn_02x20_Odd_Even_Female  PinHeader_2x20_P1.27mm_Vertical_SMD               -165.0000   -97.5000  180.0000  bottom
+J5        JST_PH_SM2                  JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal  -154.2500  -124.9000  180.0000  bottom
+S0        Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal    -93.2000   -76.2000   90.0000  bottom
+S1        Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal    -93.2000   -85.2000   90.0000  bottom
+S2        Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal    -93.2000   -94.2000   90.0000  bottom
+S3        Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal    -93.2000  -103.2000   90.0000  bottom
+S4        Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -176.8000  -103.2000  -90.0000  bottom
+S5        Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -176.8000   -94.2000  -90.0000  bottom
+S6        Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -176.8000   -85.2000  -90.0000  bottom
+S7        Conn_01x03                  JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   -176.8000   -76.2500  -90.0000  bottom
+SW1       SW_SPDT                     SW_SPDT_PCM12                                     -138.2000  -126.6250  180.0000  bottom
+SW2       SW_SPDT                     SW_SPDT_PCM12                                      -93.3750  -116.0000   90.0000  bottom
+TP19      TestPoint                   Pad_3x3mm                                         -156.2500  -118.1000    0.0000  bottom
+TP20      TestPoint                   Pad_3x3mm                                         -152.2500  -118.1000    0.0000  bottom
+## End

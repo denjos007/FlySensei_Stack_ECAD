@@ -1,4 +1,4 @@
-(kicad_sch (version 20210406) (generator eeschema)
+(kicad_sch (version 20210606) (generator eeschema)
 
   (uuid a72460e0-be78-4e40-ab44-471a462e8757)
 
@@ -669,9 +669,6 @@
     (path "/821e5142-9ed6-41e5-8fc6-e71cc7d4e757/3cf07e0a-fc34-4d29-8af3-39661632286e"
       (reference "#PWR0246") (unit 1) (value "GND") (footprint "")
     )
-    (path "/821e5142-9ed6-41e5-8fc6-e71cc7d4e757/f3535e97-ebdb-4e25-b80f-2c6c96fb0e95"
-      (reference "#PWR0247") (unit 1) (value "+BATT") (footprint "")
-    )
     (path "/821e5142-9ed6-41e5-8fc6-e71cc7d4e757/1e4cd1e3-e134-48fe-bf5d-1c3e049d97d0"
       (reference "#PWR0248") (unit 1) (value "GND") (footprint "")
     )
@@ -755,6 +752,9 @@
     )
     (path "/821e5142-9ed6-41e5-8fc6-e71cc7d4e757/316ef4f8-2624-4daf-abff-c2e80d057e52"
       (reference "#PWR0275") (unit 1) (value "+BATT") (footprint "")
+    )
+    (path "/821e5142-9ed6-41e5-8fc6-e71cc7d4e757/ea6a63c5-0182-4c23-90c7-86ec937e4f3b"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/696d3a88-8944-496f-ab7a-5382ee9a4e58/64a9fefd-8235-48a7-b55d-4223050c3099"
       (reference "BL0") (unit 1) (value "Conn_01x03") (footprint "Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal")
@@ -1093,7 +1093,7 @@
       (reference "TP20") (unit 1) (value "TestPoint") (footprint "Pads:Pad_3x3mm")
     )
     (path "/79aaf1de-35ef-4803-8790-438f110762d0/df4a1458-c09b-4b8b-bce7-fba10215e5e2"
-      (reference "U1") (unit 1) (value "PCA9685BS") (footprint "Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm")
+      (reference "U1") (unit 1) (value "PCA9685PW") (footprint "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm")
     )
     (path "/696d3a88-8944-496f-ab7a-5382ee9a4e58/fdae20d2-f931-49db-80ee-54b384fccd6f"
       (reference "U2") (unit 1) (value "DRV8835DSSR") (footprint "Package_SON:WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias")

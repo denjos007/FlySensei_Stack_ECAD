@@ -73,15 +73,15 @@
   "project": {
     "files": [
       {
-        "name": "FlySensei_Stack_Actuation_ECAD.kicad_sch",
-        "open": true,
+        "name": "FlySensei_Stack_Actuation_ECAD.kicad_pcb",
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": 1024,
-          "pos_y": 545,
-          "size_x": 1792,
-          "size_y": 1095
+          "pos_x": 896,
+          "pos_y": 465,
+          "size_x": 2048,
+          "size_y": 1255
         }
       }
     ]

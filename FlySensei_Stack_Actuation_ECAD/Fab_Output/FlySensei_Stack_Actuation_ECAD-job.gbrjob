@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(5.99.0-10928-g75ce97e260)"
+      "Version": "(5.99.0-11031-gb4f5b6ef3c)"
     },
-    "CreationDate": "2021-06-09T11:05:28-04:00"
+    "CreationDate": "2021-06-15T20:59:54-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -95,6 +95,16 @@
     {
       "Path": "FlySensei_Stack_Actuation_ECAD-Edge_Cuts.gm1",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "FlySensei_Stack_Actuation_ECAD-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "FlySensei_Stack_Actuation_ECAD-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
   ],
